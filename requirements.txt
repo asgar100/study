@@ -10,6 +10,6 @@ Pillow==9.5.0
 pipx==1.2.0
 pycodestyle==2.10.0
 pytz==2023.3
-sqlparse
+sqlparse==0.4.3
 toml==0.10.2
 userpath==1.8.0
